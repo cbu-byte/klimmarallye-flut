@@ -1,0 +1,11 @@
+.App{
+  background-image: url(./Titlescreen.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.spielstarten {
+  display: flex;
+  align-items: center; /* Vertikal zentrieren */
+  justify-content: center; /* Horizontal zentrieren */
+}
